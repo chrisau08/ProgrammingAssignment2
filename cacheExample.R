@@ -1,4 +1,4 @@
-## Example of caching using vectors and mean (credit: Robert Peng)
+## Example of caching using vectors and mean (credit: Roger D. Peng)
 ## From the instructions in Programming Assignment 2 of R Programming.
 
 ## This file exists so I can comment and notate what each part is doing.
