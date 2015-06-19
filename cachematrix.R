@@ -12,7 +12,7 @@
 ##   1. a <- makeCacheMatrix()
 ##   2. a$set(matrix(values,nrow,ncol))
 makeCacheMatrix <- function(x = matrix()) {
-  ## Initialize m
+  ## Initialize m variable
   m <- NULL
   
   ## Set cached matrix to the value in the function call.
